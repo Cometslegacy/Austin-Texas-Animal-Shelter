@@ -1,15 +1,15 @@
-#Grazioso Salvare Rescue Animal Database for Austin Texas
+# Grazioso Salvare Rescue Animal Database for Austin Texas
 This is a database created by Global Rain to help Grazioso Salvare in their mission to help find specific rescue animals for their tasks. This includes Water Rescue, Mountain or Wilderness Rescue, and Disaster or Individual Tracking.
 
-##Getting Started
+## Getting Started
 To get a local copy of this running, download the included .py and.ipynb files. After that, run the .ipynb file and it should open a local link to the Dash interface. If you’d like to change the database used, it is hard-coded near the top of the  .ipynb file.
 
-##Tools
+## Tools
 MongoDB to handle the database of animals. It was chosen for its ease-of-use and ability to work with python for easy sorting of data.
 Dash is used to create a web-interface that users will interact with. This allows us to give an easy way to view and customize the data in front of us.
 Python was used for the CRUD application of the database.  
 
-##Usage
+## Usage
 To use, open the local dash interface and it should automatically populate with all the animals near Austin Texas. There are radio dials that can be pressed that allow for easy sorting of the database.
 
 ![image](https://github.com/user-attachments/assets/9d433802-0977-4d7b-836e-13f76dd872d3)
