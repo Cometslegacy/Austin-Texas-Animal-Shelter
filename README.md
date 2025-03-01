@@ -11,15 +11,18 @@ Python was used for the CRUD application of the database.
 
 ##Usage
 To use, open the local dash interface and it should automatically populate with all the animals near Austin Texas. There are radio dials that can be pressed that allow for easy sorting of the database.
+
 ![image](https://github.com/user-attachments/assets/9d433802-0977-4d7b-836e-13f76dd872d3)
 
  
 There is a pie chart at the bottom left that will show the distribution by breed for each selected Rescue Type.
+
 ![image](https://github.com/user-attachments/assets/52e3ba56-9046-46ce-9760-6af46ee8923e)
 
  
 You can select any animal from the database to see their current location on the map at the bottom.
 The logo in the top left can be clicked to redirect to the SNHU website
+
 ![image](https://github.com/user-attachments/assets/2ef7470a-445d-44cd-8c1e-b0c6c75268ce)
 ![image](https://github.com/user-attachments/assets/322ce136-e234-4ef0-92eb-94c79bc20771)
 ![image](https://github.com/user-attachments/assets/f4630c2c-ed3f-407c-b7bf-10b1ec9aded8)
